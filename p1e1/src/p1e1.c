@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World nico jofre!!!"); /* prints !!!Hello World!!! */
+	puts("!!!Hello World nico jofre pasinetti!!!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
